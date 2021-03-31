@@ -1,0 +1,9 @@
+echo hi
+ls
+pwd
+cd Desktop
+pwd
+ls
+ls -a
+ls -i
+ls
